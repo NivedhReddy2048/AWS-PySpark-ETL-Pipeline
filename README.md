@@ -41,6 +41,6 @@ Verify the output in the /cleaned_parquet_data/ S3 folder.
 Execute the manual CREATE EXTERNAL TABLE query in Athena to map the Parquet metadata.
 
 ## 🖼️ Project Visuals
-1. Distributed Computing (AWS Glue Notebook)
-2. Optimized Storage (S3 Parquet Objects)
+1. S3 Organization (S3 Parquet Objects)
+2. Spark Execution (AWS Glue)
 3. Final Production Report (Amazon Athena)
