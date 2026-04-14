@@ -1,6 +1,6 @@
 # AWS Big Data ETL & PySpark Cleaning Pipeline
 ## 📌 Project Overview
-Following the data quality audit in AWS-Serverless-Data-Lake, I developed a production-grade ETL (Extract, Transform, Load) pipeline using PySpark. This project transitions the data lake from a "Raw" landing zone to a "Cleaned" optimized layer, focusing on distributed computing, data standardization, and storage performance optimization.
+Following the data quality audit in AWS-Serverless-Data-Lake project, I developed a production-grade ETL (Extract, Transform, Load) pipeline using PySpark. This project transitions the data lake from a "Raw" landing zone to a "Cleaned" optimized layer, focusing on distributed computing, data standardization, and storage performance optimization.
 
 ## 🏗️ Architecture
 Source: Raw Global Superstore Sales data (CSV) isolated in S3.
