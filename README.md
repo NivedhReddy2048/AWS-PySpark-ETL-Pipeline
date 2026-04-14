@@ -41,7 +41,8 @@ Verify the output in the /cleaned_parquet_data/ S3 folder.
 Execute the manual CREATE EXTERNAL TABLE query in Athena to map the Parquet metadata.
 
 ## 🖼️ Project Visuals
-1. S3 Organization (S3 Parquet Objects)
+## 1. S3 Organization (S3 Parquet Objects)
 ![image_alt](https://github.com/NivedhReddy2048/AWS-PySpark-ETL-Pipeline/blob/main/S3%20Organization.png?raw=true)
-3. Spark Execution (AWS Glue)
+## 2. Spark Execution (AWS Glue)
+![image_alt](https://github.com/NivedhReddy2048/AWS-PySpark-ETL-Pipeline/blob/main/Spark%20execution-1.png?raw=true)
 4. Final Production Report (Amazon Athena)
