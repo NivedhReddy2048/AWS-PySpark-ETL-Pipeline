@@ -46,4 +46,5 @@ Execute the manual CREATE EXTERNAL TABLE query in Athena to map the Parquet meta
 ## 2. Spark Execution (AWS Glue)
 ![image_alt](https://github.com/NivedhReddy2048/AWS-PySpark-ETL-Pipeline/blob/main/Spark%20execution-1.png?raw=true)
 ![image_alt](https://github.com/NivedhReddy2048/AWS-PySpark-ETL-Pipeline/blob/main/Spark%20execution-2.png?raw=true)
+![image_alt](https://github.com/NivedhReddy2048/AWS-PySpark-ETL-Pipeline/blob/main/Spark%20execution-3.png?raw=true)
 4. Final Production Report (Amazon Athena)
