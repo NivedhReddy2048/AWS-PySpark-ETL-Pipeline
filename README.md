@@ -49,4 +49,6 @@ Execute the manual CREATE EXTERNAL TABLE query in Athena to map the Parquet meta
 ![image_alt](https://github.com/NivedhReddy2048/AWS-PySpark-ETL-Pipeline/blob/main/Spark%20execution-3.png?raw=true)
 ## 3. Data Catalog (AWS Glue)
 ![image_alt](https://github.com/NivedhReddy2048/AWS-PySpark-ETL-Pipeline/blob/main/Datacatalog.png?raw=true)
+## 4. Serverless SQL Analytics (Amazon Athena)
+![image_alt](https://github.com/NivedhReddy2048/AWS-PySpark-ETL-Pipeline/blob/main/Athena.png?raw=true)
 
